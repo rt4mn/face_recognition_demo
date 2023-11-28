@@ -1,1 +1,1 @@
-Uploading all the files themselves would take forever and be kind of creepy, so ask chris if you want the foulder with all of em.
+Uploading all the files themselves would take forever and be kind of creepy. So if doing testing, clone repo locally, ask chris for face files, add them all to this directory, and run `python3 demo.py`
